@@ -1,0 +1,11 @@
+"SwitchboardID","ItemNumber","ItemText","Command","Argument"
+1,0,"Menu principal",,"Default"
+1,1,"Gestion des client(es)",3,"frmClient02"
+1,2,"Tables de références",1,"2"
+1,3,"Exportation des données XLS",3,"frmEnvoi"
+1,4,"Quitter l'application",7,"McQuitAll"
+2,0,"Tables de références",0,
+2,1,"Table des produits",3,"frmProduit01"
+2,2,"Table de référence des BC",3,"frmCPE"
+2,3,"Types de paiements",3,"frmPaiement"
+2,4,"Retour au menu principal",1,"1"
